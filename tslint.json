@@ -31,6 +31,9 @@
     "import-name": false,
     "quotemark": [true, "double"],
     "function-name": false,
-    "no-string-literal": false
+    "no-string-literal": false,
+    "no-unsafe-any": false,
+    "no-console": false,
+    "restrict-plus-operands": false
   }
 }
