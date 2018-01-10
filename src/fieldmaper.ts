@@ -1,5 +1,9 @@
 import { IRequest } from "./irequest";
 
+/**
+ * Request field name mapper.
+ * Translates one field name to another.
+ */
 export class FieldMapper {
     private map: object;
 
